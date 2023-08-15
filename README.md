@@ -1,5 +1,8 @@
 # Computer Science Guides
 
+Dope Dance Man has updated this amazing code with dancing!!!!!
+DANCE 2!!!
+
 Guides focused on fundamental computer science concepts. 
 
  * Check the [wiki](https://github.com/codepath/compsci_guides/wiki) to review or update content.
